@@ -1,4 +1,4 @@
-# <img src="./AppIcon.png" width="40" height="40" alt="映库图标"> 映库 Yingku
+# <img src="./AppIcon.png" width="36" height="36" align="middle" alt="映库图标"> 映库 Yingku
 
 面向 Windows 的本地AV资料库管理软件，让整理好的影片资料拥有清晰、直观的浏览界面。
 
