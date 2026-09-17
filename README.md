@@ -4,7 +4,7 @@
 
 支持读取 **MDCx** 刮削结果，基础兼容 **MDC、JavSP** 的刮削结果。目前仅提供安装包，暂未公开映库源代码。
 
-**[下载最新版本](https://github.com/CChester36/Yingku/releases/latest)** · **[查看历史版本](https://github.com/CChester36/Yingku/releases)** · **[问题反馈](https://github.com/CChester36/Yingku/issues)**
+**[下载最新版本](https://github.com/CChester36/Yingku/releases/latest)** · **[查看历史版本](https://github.com/CChester36/Yingku/releases)** · **[问题反馈](https://github.com/CChester36/Yingku/issues)** · **[使用交流](https://github.com/CChester36/Yingku/discussions)**
 
 ## 主要功能
 
